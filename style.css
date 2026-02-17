@@ -390,10 +390,10 @@ ul {
   font-family: inherit;
   color: grey;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
 
   body {
-    max-width: 400px;
+    max-width: 100vw;
     position: relative;
   }
 
